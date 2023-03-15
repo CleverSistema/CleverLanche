@@ -2013,11 +2013,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ferna\\Downloads\\3_ConfigEFCore\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+      "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
       "projectName": "LanchesMac",
-      "projectPath": "C:\\Users\\ferna\\Downloads\\3_ConfigEFCore\\LanchesMac\\LanchesMac\\LanchesMac.csproj",
+      "projectPath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
       "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ferna\\Downloads\\3_ConfigEFCore\\LanchesMac\\LanchesMac\\obj\\",
+      "outputPath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",
