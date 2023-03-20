@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+ZgF20NQMEdQcIr6L0aT9gplOLE798Tu2H0RM0qhv/DxPkE+W4tRVb2lXrrA90uKo/y7i0as1nq2s8Mr6nHbEw==",
+  "dgSpecHash": "79ajRLLcZMJ0mH84LRKOZjkUoYrXM4wB5VHpBFbEsPSxLn7iQbH/zr56IIs6esBK6lIrx01RFE7H6Ybl0m0nug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
