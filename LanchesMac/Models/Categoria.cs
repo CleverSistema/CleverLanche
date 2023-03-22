@@ -7,18 +7,18 @@ namespace LanchesMac.Models
     public class Categoria
     {
         [Key]
-        public int CategoriaId { get; set; }
+        public int CategoriaId { get; }
 
         [StringLength(100, ErrorMessage = "O Tamanho máximo é 100 caracteres")]
         [Required(ErrorMessage = "Informe o nome da categoria")]
         [Display(Name = "Nome")]
-        public string CategoriaNome { get; set; }
+        public string CategoriaNome { get; }
 
         [StringLength(200, ErrorMessage = "O Tamanho máximo é 200 caracteres")]
         [Required(ErrorMessage = "Informe a descrição da categoria")]
         [Display(Name = "Descrição")]
-        public string Descricao { get; set; }
+        public string Descricao { get; }
 
-        public List<Lanche> Lanches { get; set; }
+        public List<Lanche> Lanches { get;  }
     }
 }
