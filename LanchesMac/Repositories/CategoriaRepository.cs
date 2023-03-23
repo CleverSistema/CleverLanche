@@ -1,8 +1,8 @@
 ﻿using LanchesMac.Context;
 using LanchesMac.Models;
-using LanchesMac.Repositoreis.Interfaces;
+using LanchesMac.Repositories.Interfaces;
 
-namespace LanchesMac.Repositoreis
+namespace LanchesMac.Repositories
 {
     public class CategoriaRepository : ICategoriaRepository
     {
@@ -10,7 +10,7 @@ namespace LanchesMac.Repositoreis
 
         public CategoriaRepository(AppDbContext context)
         {
-            _context = context;
+            _context = context; 
         }
 
         public IEnumerable<Categoria> Categorias => _context.Categorias;

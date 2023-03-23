@@ -1,9 +1,9 @@
 ﻿using LanchesMac.Models;
 
-namespace LanchesMac.Repositoreis.Interfaces
+namespace LanchesMac.Repositories.Interfaces
 {
     public interface ICategoriaRepository
     {
-        IEnumerable<Categoria> Categorias { get;}
+        IEnumerable<Categoria> Categorias { get; }
     }
 }

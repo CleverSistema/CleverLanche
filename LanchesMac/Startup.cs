@@ -1,6 +1,6 @@
 ﻿using LanchesMac.Context;
-using LanchesMac.Repositoreis;
-using LanchesMac.Repositoreis.Interfaces;
+using LanchesMac.Repositories;
+using LanchesMac.Repositories.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace LanchesMac;

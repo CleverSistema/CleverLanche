@@ -1,13 +1,12 @@
 ﻿using LanchesMac.Models;
 
-namespace LanchesMac.Repositoreis.Interfaces
+namespace LanchesMac.Repositories.Interfaces
 {
     public interface ILancheRepository
     {
-
         IEnumerable<Lanche> Lanches { get; }
         IEnumerable<Lanche> LanchesPreferidos { get; }
-
         Lanche GetLancheById(int lancheId);
+
     }
 }
