@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "HjP3kF4gshF27OHJHY5YJgGbbJetY5ViqazUHjexHMI=",
+  "Hash": "KkduuGs077JsXx6ahqWlJVPJPU6dbEejYBCorTNeCOE=",
   "Source": "LanchesMac",
   "BasePath": "_content/LanchesMac",
   "Mode": "Default",
@@ -134,6 +134,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\carousel13.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\wwwroot\\images\\Carrinho.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/Carrinho.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Carrinho.png"
+    },
+    {
+      "Identity": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\wwwroot\\images\\Lixeira.png",
+      "SourceId": "LanchesMac",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\wwwroot\\",
+      "BasePath": "_content/LanchesMac",
+      "RelativePath": "images/Lixeira.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Lixeira.png"
     },
     {
       "Identity": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\wwwroot\\js\\site.js",
