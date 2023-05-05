@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj": {}
+    "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj": {
+    "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
+        "projectUniqueName": "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
         "projectName": "LanchesMac",
-        "projectPath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
+        "projectPath": "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
         "packagesPath": "C:\\Users\\ferna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\obj\\",
+        "outputPath": "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ferna\\AppData\\Roaming\\NuGet\\NuGet.Config",

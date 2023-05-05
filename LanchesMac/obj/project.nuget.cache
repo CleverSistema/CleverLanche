@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A6anhcQlaTm6ChXS5nOid9sgXlVojDaS5rChnn4GhHAappfZytEcPt1C/SnNnkMfnisRN3QBqIhdGgoa4/nWMQ==",
+  "dgSpecHash": "7CXfZB7f4kLLwFWr7MSCB8RVhW12439e0LUHNsWNx+jGd5xL9RD/f+Ag7jy/BASmQiV6Ge/21ky+cz8a92Wpwg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ferna\\Source\\Repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
+  "projectFilePath": "C:\\Users\\ferna\\source\\repos\\CleverSistema\\CleverLanche\\LanchesMac\\LanchesMac.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ferna\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\ferna\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
